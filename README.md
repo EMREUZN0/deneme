@@ -210,7 +210,7 @@ The conducted tests demonstrate that the system achieves high accuracy rates in 
 
 ---
 
-# BÖLÜM 1: GİRİŞ
+## BÖLÜM 1: GİRİŞ
 
 Bilgi çağı olarak adlandırılan 21. yüzyılda, dijital teknolojilerin ve internet altyapısının hızla gelişmesi, bilgiye erişim biçimlerini köklü bir şekilde dönüştürmüştür. Geleneksel medya organlarının tekelinde olan haber üretimi ve dağıtımı, sosyal medya platformlarının yükselişiyle birlikte demokratikleşmiş; ancak bu demokratikleşme beraberinde önemli sorunları da getirmiştir. Günümüzde herhangi bir birey, doğruluğu teyit edilmemiş bilgileri milyonlarca kişiye saniyeler içinde ulaştırabilmektedir. Bu durum, "yalan haber" (fake news) ve "dezenformasyon" kavramlarını gündelik hayatın ayrılmaz bir parçası haline getirmiştir. Özellikle 2016 yılından itibaren küresel gündemde önemli bir yer edinen yalan haber sorunu, demokratik süreçlerin sağlıklı işleyişinden toplum sağlığına, ekonomik istikrardan bireysel karar alma mekanizmalarına kadar pek çok alanı olumsuz etkilemektedir.
 
